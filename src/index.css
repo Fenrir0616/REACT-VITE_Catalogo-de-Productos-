@@ -1,0 +1,6 @@
+body, #root {
+  padding: 0 !important;
+  margin: 0;
+  width: 100%;
+  overflow-x: hidden;
+}
